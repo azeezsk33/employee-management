@@ -6,7 +6,7 @@ import os
 # API URL
 API_URL = os.getenv(
     "API_URL",
-    "https://dropper-pursuable-humorous.ngrok-free.dev"
+    "https://employee-management-1-rjhy.onrender.com"
 ).rstrip("/")
 
 st.set_page_config(
